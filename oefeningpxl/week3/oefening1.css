@@ -1,0 +1,59 @@
+body{
+    background-color: #c7ced8;
+}
+td{
+    text-align: center;
+    vertical-align: center;
+    padding: 7px;
+    border: 2px solid #222222;
+}
+
+thead{
+    text-align: center;
+    color: white;
+    padding: 7px;
+    border: 2px solid #222222;
+}
+
+tfoot{
+    text-align: center;
+    color: white;
+    padding: 7px;
+    border: 2px solid #222222;
+}
+
+table{
+    font-family: Verdana;
+    color: white;
+    border-collapse: collapse;
+    border: 2px solid #222222;
+    margin: 30px
+
+}
+
+tr{
+    background-color: #27426d;
+    padding: 7px;
+    border: 2px solid #222222;
+
+
+}
+
+.blauw:nth-child(odd){
+    background-color: #4f8cef;
+    padding: 7px;
+    border: 2px solid #222222;
+}
+
+.blauw:nth-child(even){
+    background-color: #6facff;
+    padding: 7px;
+    border: 2px solid #222222;
+
+}
+
+.data{
+    padding: 7px;
+    width: 100px;
+    border: 2px solid #222222;
+}

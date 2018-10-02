@@ -1,0 +1,35 @@
+table {
+    border: 5px solid black;
+    table-layout: fixed;
+    width: 500px;
+    height: 500px;
+    empty-cells: show;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr{
+    border: 5px solid black;
+    height: 100px;
+
+}
+
+td {
+    border: 5px solid black;
+}
+
+.rood{
+    background-color: red;
+}
+
+.blauw{
+    background-color: blue;
+}
+
+.groen{
+    background-color: darkgreen;
+}
+
+.geel{
+    background-color: yellow;
+}

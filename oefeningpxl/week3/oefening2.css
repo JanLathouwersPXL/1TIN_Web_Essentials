@@ -1,0 +1,52 @@
+body{
+    background-image: url("assets/bestanden_oefeningen_week3/images/hout.jpg");
+}
+
+table{
+    border: 7px solid saddlebrown;
+    table-layout: fixed;
+    width: 800px;
+    height: 800px;
+    empty-cells: show;
+    border-collapse: collapse;
+    text-align: center;
+    float: left;
+}
+
+tr{
+    border: 2px solid saddlebrown;
+    height: 100px;
+
+}
+
+td{
+    border: 2px solid saddlebrown;
+}
+
+.wit{
+    background-image: url("assets/bestanden_oefeningen_week3/images/witte-marmer.jpg")
+}
+
+.zwart{
+    background-image: url("assets/bestanden_oefeningen_week3/images/zwarte-marmer.jpg")
+}
+
+article{
+    border: 5px solid saddlebrown;
+    background-image: url("assets/bestanden_oefeningen_week3/images/witte-marmer.jpg");
+    width: 280px;
+    height: 400px;
+    font-family: Verdana;
+    float: right;
+
+}
+
+p{
+    padding: 20px;
+    padding-top: 5px;
+}
+
+h1{
+    padding: 20px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: #d9ddd7;
+}
+
+head{
+    color: #d9ddd7;
+}
+
+H1{
+    color: darkgreen;
+    font-family: Verdana;
+}
+
+p{
+    color: white;
+    background-color: #6a7689;
+    font-family: Verdana;
+    margin: 3px;
+    padding: 20px;
+    width: 1100px;
+}
+
+.highlight{
+    color: yellow;
+    background-color: #6a7689;
+    font-family: Verdana;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 20px;
+    border: 3px solid yellow;
+    width: 500px;
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    color: black;
+    font-family: Verdana;
+}
+
+article{
+    color: white;
+    background-color: #6a7689;
+    font-family: Verdana;
+    margin: 3px;
+    padding: 20px;
+    width: 1100px;
+}
+
